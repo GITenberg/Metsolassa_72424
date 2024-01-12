@@ -1,0 +1,37 @@
+_repo: Metsolassa_72424
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hynninen, Oskari
+    aliases:
+    - Hynén, Karl Oskar Harald
+    - Hynen, Karl Oskar Harald
+    birthdate: 1865
+    deathdate: 1906
+    gutenberg_agent_id: '56680'
+    url: http://www.gutenberg.org/2009/agents/56680
+    wikipedia: https://fi.wikipedia.org/wiki/Oskar_Hyn%C3%A9n
+description: ''
+gutenberg_issued: '2023-12-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72424'
+language: fi
+pgterms:marc905: 20220621090752hynninen
+pgterms:marc906: '1903'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHelsinki :$bYrjö Weilin, $c1903.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Natural history -- Outdoor books'
+- !lcc 'QH'
+- GITenberg
+tableOfContents: Metson soitimella -- Nevalla -- Heija-Pekko -- Eläimiemme talvipuvuista
+  -- Koiralleni -- Alleja ampumassa -- Mateita pyytämässä -- Miten kesäpäiväni viettäisin
+  -- Syysmuistoja -- Talvinen metsä -- Merilintuja -- Luvattomalla ajalla -- Hylkeenhuudossa
+  -- Metsolassa -- Vappuna.
+title: Metsolassa
+url: http://www.gutenberg.org/ebooks/72424
